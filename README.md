@@ -2,10 +2,10 @@
 - 🔭 I’m currently working on a CyberSecurity Game
 - 🌱 I’m currently learning html and java
 - 👯 I’m looking to collaborate on amplexoedu
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Venelouis (profile in Github)
 - 💬 Ask me about ...
 - 📫 How to reach me: Get a good teacher to learn! I recommend venelouis.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:
---> My profile in scratch: Criabasdoro2-0
+- ⚡ Fun fact: the biggest number in the universe is... x! But, ok. Now you will say: x + 1 is bigger, i won!
+- --> My profile in scratch: Criabasdoro2-0
 --> 
