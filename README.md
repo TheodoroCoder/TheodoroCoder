@@ -8,4 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: the biggest number in the universe is... x! But, ok. Now you will say: x + 1 is bigger, i won!
 - --> My profile in Scratch: Criabasdoro2-0
-- --> My profile in Khan Academy: RocketMind83!
+- --> My profile in Khan Academy: Rocketmind83
