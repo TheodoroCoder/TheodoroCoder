@@ -16,24 +16,6 @@
 - https://theodorocoder.github.io/Soccer-Arcade/
 - https://theodorocoder.github.io/Mega-Arcade/
 
-<div align="center">
-
-<!-- Terminal Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff66,100:003311&height=220&section=header&text=VENELOUIS%20//%20CYBER_OS&fontSize=42&fontAlign=50&fontAlignY=38&desc=FullStack%20%7C%20CyberSec%20%7C%20Rustacean%20%7C%20AI%20Dev&descSize=16&descAlign=50&descAlignY=65&animation=fadeIn" alt="Terminal Header" />
-
-<!-- Typing Effect Subtitle -->
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Initializing+Neural+Link...;Accessing+Secure+Root+Directory...;Welcome,+Agent+to+the+Grid." alt="Typing SVG" />
-</p>
-
-</div>
-
----
-
-### `> cat /etc/system_profile.txt`
-
-```ini
-[SYSTEM_CONFIG]
 USER        = TheodoroCoder
 CODENAME    = ProgramHacker 🕵️
 DOMAINS     = Web Dev AI 🗝️ CyberSec ☁️ Cloud Engineer ⚙️ Blockchain ⛓️
@@ -80,15 +62,3 @@ SECURITY    = Alpha-Level Encryption Enabled
 ### `> netstat -an | grep ESTABLISHED`
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venelouis)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/venelouis)
-[![Exercism](https://img.shields.io/badge/Exercism-009FF5?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/venelouis)
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003311,50:00ff66,100:000000&height=100&section=footer" alt="Footer Banner" />
-</div>
