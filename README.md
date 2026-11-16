@@ -12,3 +12,6 @@
 - Some of my best games:
 - https://theodorocoder.github.io/CyberGuard-Game/
 - https://theodorocoder.github.io/Race-Game/
+- https://theodorocoder.github.io/Minecraft-Web-3D-Voxel-Sandbox/
+- https://theodorocoder.github.io/Soccer-Arcade/
+- https://theodorocoder.github.io/Mega-Arcade/
