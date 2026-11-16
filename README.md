@@ -34,8 +34,8 @@
 
 ```ini
 [SYSTEM_CONFIG]
-USER        = venelouis (or your codename)
-CODENAME    = Green-Skilled 🕵️
+USER        = TheodoroCoder
+CODENAME    = ProgramHacker 🕵️
 DOMAINS     = Web Dev AI 🗝️ CyberSec ☁️ Cloud Engineer ⚙️ Blockchain ⛓️
 LANGUAGES   = Rust, Python, Shell, C
 OS          = Linux / Arch / Kali
